@@ -1,0 +1,22 @@
+public class Main {
+public stactic void main (String []args){
+Int resulatado;
+resultado=suma(2,4,5);
+System.out.println(resultado);
+coche sumpuerta=new coche();
+Sumpuerta.addpuerta();
+System.out.println(coche.puerta);
+}
+public Static int  suma ( int a, int b, int c){
+return(a +b +c);
+}
+
+class coche {
+public static int puerta = 4;
+public void add puerta () {
+puerta ++;
+}
+}
+class micoche{
+publicStatic int puerta =1;
+}
